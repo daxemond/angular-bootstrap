@@ -9,5 +9,6 @@ No proprietary, confidential, or work-related assets have been copied, reused, o
 
 <h1>Demo</h1>
 
-[![N|Solid](preview.jpg)](https://desmond-tam.github.io/ng-bootstrap-v20/)
+[![N|Solid](preview.jpg)](https://daxemond.github.io/ng-bootstrap-v20/)
+
 
